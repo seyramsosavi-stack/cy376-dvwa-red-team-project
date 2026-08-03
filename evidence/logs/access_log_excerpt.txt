@@ -1,0 +1,6 @@
+172.17.0.1 - - [17/Jul/2026:15:16:50 +0000] "-" 408 0 "-" "-" 172.17.0.1 - - [17/Jul/2026:15:18:07 +0000] "GET 
+/vulnerabilities/brute/?username=admin&password=password&Login=Login HTTP/1.1" 200 1822 "http://localhost/vulnerabilities/brute/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" 172.17.0.1 - - 
+[17/Jul/2026:15:18:07 +0000] "GET /hackable/users/admin.jpg HTTP/1.1" 200 3829 
+"http://localhost/vulnerabilities/brute/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
